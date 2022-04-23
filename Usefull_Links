@@ -1,0 +1,7 @@
+# DevOps
+complete DevOps material
+key difference is that if you pass a command line argument, it would override the CMD. However
+
+for writing ENTRYPOINTs are much more complex, and so ENTRYPOINTs are much preferred approach to launch
+
+your application up. If you'd want to launch the same thing up every time.
